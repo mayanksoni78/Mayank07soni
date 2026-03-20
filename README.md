@@ -27,15 +27,33 @@ Currently, I'm focused on:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![](https://nirzak-streak-stats.vercel.app/?user=Mayank07soni&theme=shadow_green&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank07soni&theme=shadow_green&hide_border=false&layout=compact)
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=mayanksoni78&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170" alt="Main Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayanksoni78&theme=tokyonight&hide_border=true&layout=compact&border_radius=12" height="170" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=mayanksoni78&theme=tokyonight&hide_border=true&border_radius=12" alt="Streak Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-![](https://visitcount.itsvg.in/api?id=mayanksoni782005&icon=0&color=0)
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayanksoni78&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27&color=70a5fd" width="100%" />
+</div>
 
 ---
 
