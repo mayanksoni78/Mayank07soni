@@ -29,11 +29,11 @@ Currently, I'm focused on:
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=mayanksoni782005&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?usernameMayank07soni&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=mayanksoni782005&theme=shadow_green&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Mayank07soni&theme=shadow_green&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayanksoni782005&theme=shadow_green&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank07soni&theme=shadow_green&hide_border=false&layout=compact)
 
 ---
 
